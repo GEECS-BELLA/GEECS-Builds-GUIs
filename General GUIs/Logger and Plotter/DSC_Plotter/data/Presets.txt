@@ -1,0 +1,14 @@
+TestPreset1	BackingPMP Convectron	16777215
+TestPreset1	HPD ION Gauge	4342527
+TestPreset1	TARGET ION Gauge	65294
+TestPreset2	RoughingPMP Convectron LB	8388736
+TestPreset2	RoughingMAN Convectron LB	8388608
+TestPreset2	COMP Convectron	4227072
+GAIA 1 to 4	GAIA IR Line A Energy one	16744576
+GAIA 1 to 4	GAIA IR Line B Energy one	4342527
+GAIA 1 to 4	GAIA IR Line A Energy 2	65294
+GAIA 1 to 4	GAIA IR Line B Energy 2	16761410
+GAIA 1 to 4	GAIA IR Line A Energy 3	7471058
+GAIA 1 to 4	GAIA IR Line B Energy 3	16734669
+GAIA 1 to 4	GAIA IR Line A Energy 4	1225727
+GAIA 1 to 4	GAIA IR Line B Energy 4	16729410

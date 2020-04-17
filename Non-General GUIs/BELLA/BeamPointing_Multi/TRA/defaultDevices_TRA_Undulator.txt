@@ -1,0 +1,8 @@
+B6_SwitchYNear
+B9_OAPFront
+TargetCam10Hz_Diode
+TargetCam1Hz_Pulsed
+PaperCam
+PhosphorScreen1
+PhosphorScreen2
+PhosphorScreen3

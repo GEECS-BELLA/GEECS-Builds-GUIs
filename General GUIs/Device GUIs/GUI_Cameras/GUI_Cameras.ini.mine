@@ -1,0 +1,21 @@
+[GUI_Cameras]
+server.app.propertiesEnabled=True
+server.tcp.paranoid=True
+server.tcp.serviceName="My Computer/VI Server"
+server.vi.callsEnabled=True
+server.vi.propertiesEnabled=True
+WebServer.TcpAccess="c+*"
+WebServer.ViAccess="+*"
+DebugServerEnabled=TRUE
+DebugServerWaitOnLaunch=False
+AllowMultipleInstances=True
+RTTarget.ApplicationPath=C:\Users\loasis.BELLANET\Documents\LabVIEW Data\Remote Development\startup.rtexe
+RTTarget.VIPath=C:\Users\loasis.BELLANET\Documents\LabVIEW Data\Remote Development
+colorHistoryItemA=00FFFBA0
+colorHistoryItemB=00F7F7F7
+colorHistoryItemC=00FDFDFD
+colorHistoryItemD=00FEFEFE
+colorHistoryItemE=00F9F9F9
+colorHistoryItemF=00FBFBFB
+colorHistoryItemG=00000000
+colorHistoryItemH=00FFFFFF
