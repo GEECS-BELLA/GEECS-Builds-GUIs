@@ -9,3 +9,6 @@ General GUIs/Device GUIs/GUI_Picoscope/GUI_Picoscope.ini
 General GUIs/MC/LVstarter/LVstarter - Shortcut.lnk
 General GUIs/MC/Master Control/Master Control - 2020.lnk
 Non-General GUIs/BELLA/GUI_HTT_CTRL/GUI_HTT_CTRL - Shortcut.lnk
+*.aliases
+Non-General GUIs/BELLA/GUI_kHz_Control_Center/data/Multiple Reentrant Dialogs.lvlps
+Non-General GUIs/BELLA/GUI_kHz_Control_Center/data/Multiple Reentrant Dialogs.lvproj
