@@ -1,7 +1,6 @@
-regen-out-cam
-xpw-cam
-xpw-out-cam
 amp0-out-cam
 preamp-in-cam
+preamp-in-iris-cam
+preamp-1st-pass-cam
 preamp-2nd-pass-cam
 compressor-in-cam
