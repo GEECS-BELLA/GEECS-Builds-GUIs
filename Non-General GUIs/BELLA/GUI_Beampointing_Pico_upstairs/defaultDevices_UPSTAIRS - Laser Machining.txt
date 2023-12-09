@@ -1,0 +1,7 @@
+XPW_POE
+LM_Mirrorcam
+LM_Focuscam
+TS-253a_in
+PA1-XPW-OUT-SAL
+PA1-PRE-IN-SAL
+PA1-PRE-3RD-OUT

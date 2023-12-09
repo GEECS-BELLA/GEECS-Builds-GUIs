@@ -1,6 +1,0 @@
-XPW_POE
-LM_Mirrorcam
-LM_Focuscam
-PA1-XPW-OUT-SAL
-PA1-PRE-IN-SAL
-PA1-PRE-3RD-OUT
