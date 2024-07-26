@@ -1,0 +1,22 @@
+[GUI_Cameras]
+server.app.propertiesEnabled=True
+server.tcp.paranoid=True
+server.tcp.serviceName="My Computer/VI Server"
+server.vi.callsEnabled=True
+server.vi.propertiesEnabled=True
+WebServer.TcpAccess="c+*"
+WebServer.ViAccess="+*"
+DebugServerEnabled=True
+DebugServerWaitOnLaunch=False
+AllowMultipleInstances=True
+colorHistoryItemA=0032EF00
+colorHistoryItemB=0035FF00
+colorHistoryItemC=00FF5A00
+colorHistoryItemD=00FF8759
+colorHistoryItemE=0012FF7B
+colorHistoryItemF=0012FF7B
+colorHistoryItemG=00FFFEE7
+colorHistoryItemH=00FF4100
+colorHistoryItemI=00FF502A
+colorHistoryItemJ=00FF5200
+colorHistoryItemK=00CFEF00
