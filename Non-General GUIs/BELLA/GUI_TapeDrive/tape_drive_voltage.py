@@ -11,9 +11,9 @@ file_path = os.path.join(r"\\192.168.15.45\TapeDrive", "TapeDownramp.tsv")
 # User variables to set
 initial_reduction_ratio = 0.85
 # asymptote_voltage = -0.450
-asymptote_reduction_ratio = 0.4
+asymptote_reduction_ratio = 0.0
 decay_rate = 0.25
-num_steps = 60
+num_steps = 80
 # End user variables set
 
 steps = np.arange(num_steps//2)
